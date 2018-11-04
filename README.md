@@ -6,7 +6,7 @@
   <body>
     <header>
       <h1>Ella Fik's Resume</h1>
-      <p><img src="me.jpg" alt="My resume" height="100" width="100"></p>
+      <p><img src="me.jpg" alt="My resume" height="100" width="150"></p>
     </header>
     <section>
       <h2>Education</h2>
